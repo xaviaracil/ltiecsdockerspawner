@@ -1,0 +1,2 @@
+ecsspawner
+-e git+https://devel.elearnlab.org/elearn/ltiauthenticator.git#egg/0.0.1=ltiauthenticator
